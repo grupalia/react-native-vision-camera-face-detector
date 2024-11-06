@@ -39,7 +39,7 @@ export default {
       [ 'expo-build-properties', {
         'android': {
           // android 8
-          minSdkVersion: 26,
+          minSdkVersion: 23,
           // android 14
           compileSdkVersion: 34,
           targetSdkVersion: 34,
